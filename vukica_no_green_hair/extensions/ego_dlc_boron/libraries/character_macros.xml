@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/macros/macro[@name='character_story_bar_regular_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bun_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_bar_regular_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bun_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_bar_regular_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_short_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_bar_regular_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_short_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_bar_regular_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bangs_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_bar_regular_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bangs_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_hatikvah_client']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bun_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_hatikvah_client']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bun_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_hatikvah_client']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_short_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_hatikvah_client']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_short_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_hatikvah_client']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bangs_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_story_hatikvah_client']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bangs_green_01']/@weight">0</replace>
+</diff>

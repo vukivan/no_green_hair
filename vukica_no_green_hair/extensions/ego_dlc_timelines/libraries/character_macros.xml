@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<diff>
+  <replace sel="/macros/macro[@name='character_argon_female_cau_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bun_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_cau_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bun_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_cau_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_short_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_cau_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_short_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_cau_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bangs_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_cau_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bangs_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_asi_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bun_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_asi_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bun_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_asi_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_short_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_asi_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_short_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_asi_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bangs_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_female_asi_timelines_hub_random_macro']/properties/models/model[@selection='random']/select[@ref='assets/characters/argon/props/Ter_f_hair_bangs_pink_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_male_cau_timelines_hub_random_macro']/properties/models/model[@selection='random'][@type='props1']/select[@ref='assets/characters/argon/props/Ter_m_hair_cau_green_01']/@weight">0</replace>
+  <replace sel="/macros/macro[@name='character_argon_male_asi_timelines_hub_random_macro']/properties/models/model[@selection='random'][@type='props1']/select[@ref='assets/characters/argon/props/Ter_m_hair_cau_green_01']/@weight">0</replace>
+</diff>
